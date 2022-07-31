@@ -2,3 +2,4 @@
 
 ### install `make`
 #### $ `brew install make`
+#### $ `make`
