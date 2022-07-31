@@ -1,4 +1,5 @@
 -:
 	swiftc main.swift
 	chmod +x main
-	./main
+	chmod +x main.swift
+	./main.swift
