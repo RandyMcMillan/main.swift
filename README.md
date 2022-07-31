@@ -1,4 +1,4 @@
 ## hello.swift
 
 ### install `make`
-####$ `brew install make`
+#### $ `brew install make`
